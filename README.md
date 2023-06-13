@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erickgermani&label=Profile%20views&color=0e75b6&style=flat" alt="erickgermani" /> </p>
 
-- 🔭 I’m currently working on [Consultor Net](https://www.consultornet.com.br/)
+- 🔭 Currently, I work at [Consultor Net](https://www.consultornet.com.br/) for 40 hours per month and at [Senso Performance](https://www.sensoperformance.com.br/) for 44 hours per week as a Full Stack Developer.
 
 - 🌱 I’m currently learning **Linux, Angular and design patterns.**
 
