@@ -5,7 +5,7 @@
 
 - 🔭 Currently, I work at [Consultor Net](https://www.consultornet.com.br/) for 40 hours per month and at [Senso Performance](https://www.sensoperformance.com.br/) for 44 hours per week as a Full Stack Developer.
 
-- 🌱 I’m currently learning **Linux, Angular and design patterns.**
+- 🌱 I’m currently learning **Linux, Nest.js and design patterns.**
 
 - 👯 I’m looking to collaborate on **fullstack project**
 
