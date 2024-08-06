@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erickgermani&label=Profile%20views&color=0e75b6&style=flat" alt="erickgermani" /> </p>
 
-- 🔭 Currently, I work at [Consultor Net](https://www.consultornet.com.br/) for 40 hours per month and at [Senso Performance](https://www.sensoperformance.com.br/) for 44 hours per week as a Full Stack Developer.
+- 🔭 Currently, I work at [Consultor Net](https://www.consultornet.com.br/) for 40 hours per month and at [Senso Performance](https://www.sensoperformance.com.br/) for 44 hours per week as a Senior Fullstack Developer.
 
-- 🌱 I’m currently learning **Linux, Nest.js and design patterns.**
+- 🌱 I’m currently learning **Linux, design patterns and system's architecture.**
 
 - 👯 I’m looking to collaborate on **fullstack project**
 
 - 🤝 I’m looking for help with **Linux**
 
-- 💬 Ask me about **Javascript, Typescript and React**
+- 💬 Ask me about **Javascript, Typescript and Vue.js**
 
 - 📫 How to reach me **erickgermani13@gmail.com**
 
